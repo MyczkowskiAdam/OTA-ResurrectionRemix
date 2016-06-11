@@ -15,6 +15,10 @@
             	id="gapps"
             	title="Gapps"
             	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+             <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit ResurrectionRemix v400 thread">http://forum.xda-developers.com/android/development/rom-resurrection-remix-os-t3383427</XDAUrl>
 	</v400>
     </Stable>
 </SlimOTA>
