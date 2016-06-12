@@ -11,6 +11,10 @@
                 id="changelog"
                 title="Changelog"
                 description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+            <Notice
+                id="notice"
+                title="IMPORTANT NOTICE"
+                description="For better performance, stablility and voiding possible bugs, I recommend clean flashing all the new builds incoming!></Notice>
             <SlimGappsUrl
             	id="gapps"
             	title="Gapps"
