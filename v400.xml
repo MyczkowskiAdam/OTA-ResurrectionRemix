@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <v400>
-            <Filename>ResurrectionRemix-M-v5.7.4-20160921-v400.zip</Filename>
+            <Filename>ResurrectionRemix-N-v5.8.0-20161207-v400.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://basketbuild.com/devs/resurrectionremix/v400</RomUrl>
+                description="Download ResurrectionRemix builds (If you're coming from MM please do a clean flash!)">https://basketbuild.com/devs/resurrectionremix/v400</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -18,7 +18,7 @@
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Visit ResurrectionRemix v400 thread">http://forum.xda-developers.com/android/development/rom-resurrection-remix-os-t3383427</XDAUrl>
+                description="Visit ResurrectionRemix v400 thread">http://forum.xda-developers.com/g-pad-10/development/rom-resurrection-remix-os-5-8-0-t3515005</XDAUrl>
 	</v400>
     </Stable>
 </SlimOTA>
